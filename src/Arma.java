@@ -19,7 +19,7 @@ public abstract class Arma {
         return estado.equals("EN USO") && calibre >= 9;
     }
 
-    public abstract String toString(); // Método toString abstracto
+    public abstract String toString(); 
 
-    // Getters y Setters (opcional, puedes añadirlos si los necesitas)
+
 }
